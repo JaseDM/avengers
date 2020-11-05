@@ -18,3 +18,4 @@
 * Vision
 * Wasp
 * Antman
+* Nick Fury
